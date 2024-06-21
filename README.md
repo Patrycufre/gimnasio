@@ -20,14 +20,19 @@ Link a URL navegable Netlify
 - Api usada geolocalización google
 
 ## Authors
+
 👤 *Ferreyra Maria Cecilia*
 - GitHub: [@user](https://github.com/MCeciliaF)
+- 
 👤 *Cufré Patricia Andrea*
 - GitHub: [@user](https://github.com/Patrycufre)
+- 
 👤 *Tovar Ruiz Michael Douglas*
 - GitHub: [@user](https://github.com/MichaelRuizT)
+- 
 👤 *Segura Marisa Estela*
  GitHub: [@user](https://github.com/Marisa-S)
+
 ## Color Reference
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
